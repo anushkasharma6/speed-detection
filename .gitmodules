@@ -1,0 +1,6 @@
+[submodule "Traffic-Monitoring-System-with-YOLO"]
+	path = Traffic-Monitoring-System-with-YOLO
+	url = https://github.com/anushkasharma6/speed-detection/blob/main/Traffic-Monitoring-System-with-YOLO.git
+[submodule "sort"]
+	path = sort
+	url = https://github.com/anushkasharma6/speed-detection/blob/main/sort
